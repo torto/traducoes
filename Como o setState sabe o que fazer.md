@@ -1,4 +1,5 @@
 > Tradução do Post [How Does setState Know What to Do?](https://www.google.com)
+> [Repositório para sugerir alterações](https://github.com/torto/traducoes/blob/master/Como%20o%20setState%20sabe%20o%20que%20fazer.md)
 
 Quando você chama `setState` dentro de um componente, o que você pensa que acontece?
 
